@@ -1,3 +1,6 @@
-172.16.154.130 apache_package=apache2 php_package=libapache2-mod-php
-172.16.154.140 apache_package=httpd php_package=php
+[web_servers]
+172.16.154.130
+
+[db_servers]
+172.16.154.140
 # 172.16.153.139
